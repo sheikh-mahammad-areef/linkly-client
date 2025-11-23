@@ -1,0 +1,2 @@
+# lint-staged hook is used to run linters on staged git files
+npx lint-staged 
